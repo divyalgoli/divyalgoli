@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Hi%2C%20I'm%20Divyal%20%F0%9F%91%8B&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Web%20%26%20Game%20Developer&descSize=18&descAlignY=62" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:06B6D4&height=200&section=header&text=Divyal%20Goli&fontSize=60&fontColor=ffffff" width="100%" alt="Divyal Goli" />
 
 <div align="center">
 
